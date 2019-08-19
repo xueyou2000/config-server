@@ -10,7 +10,7 @@ spring:
         git:
           uri: https://github.com/xueyou2000/cloud-config
   rabbitmq:
-    host: 172.31.143.154
+    host: 172.23.160.148
     port: 5672
     username: root
     password: 123456
